@@ -1,0 +1,30 @@
+
+.Origami{
+
+    background-color:palevioletred;
+}
+
+canvas{
+    border:8px;
+    margin: 10px;
+    padding:5px;
+}
+
+table {
+    width: 100%;
+  }
+  
+  th {
+    height: 50px;
+  }
+
+  table {
+    border-collapse: collapse;
+  }
+  
+  table, tr, td {
+    border: 1px solid black;
+  }
+
+
+ 
